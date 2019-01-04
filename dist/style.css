@@ -9513,25 +9513,73 @@ h3 {
   }
 }
 .image {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../git_bootstrap_les_chefs/images/banner1.jpg");
-  height: 1000px;
-  width: 100%;
-  background-size: cover;
+  background: url("../git_bootstrap_les_chefs/images/bottom_decoration_img.png") repeat-x bottom, linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../git_bootstrap_les_chefs/images/banner1.jpg");
+  height: 800px;
 }
 
 .barre {
   border-top: solid 1px #fff;
   border-bottom: solid 1px #fff;
-  padding-bottom: 10px;
-  padding-top: 10px;
   margin-top: 20px;
 }
 
 .ligne {
   text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
   margin-top: 20px;
+}
+
+.milieutext {
+  text-align: center;
+  font-family: "Courgette", cursive;
+  font-size: 60px;
+  margin-top: 100px;
+}
+
+.grand {
+  font-size: 75px;
+}
+
+.bouton {
+  margin: 50px;
+}
+
+.mot {
+  font-size: 10px;
+}
+
+.fond {
+  background: url("../git_bootstrap_les_chefs/images/main_bg.jpg");
+  height: 900px;
+}
+
+.police {
+  font-family: "Courgette", cursive;
+  font-size: 60px;
+}
+
+.cote {
+  margin-left: 63px;
+}
+
+.our {
+  font-size: 50px;
+}
+
+.icone {
+  margin-bottom: 85px;
+}
+
+.longtext {
+  font-size: 20px;
+}
+
+.coffee {
+  font-size: 70px;
+  margin-left: 100px;
+}
+
+.break {
+  font-family: "Courgette";
 }
 
 /*# sourceMappingURL=style.css.map */
