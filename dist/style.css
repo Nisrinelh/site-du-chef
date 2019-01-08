@@ -9775,4 +9775,23 @@ h3 {
   background-color: #ffffff;
 }
 
+.dernierfond {
+  background: url("../git_bootstrap_les_chefs/images/footer_bottom_decoration_img.png") repeat-x top, url("../git_bootstrap_les_chefs/images/footer_background.jpg");
+  height: 397px;
+}
+
+.phrase2 {
+  font-size: 12px;
+}
+
+.bull {
+  border-radius: 20px;
+  border: solid 2px #ffffff;
+}
+
+.rouge {
+  background-color: #9c2222;
+  height: 58px;
+}
+
 /*# sourceMappingURL=style.css.map */
