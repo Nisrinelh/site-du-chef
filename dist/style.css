@@ -9717,4 +9717,62 @@ h3 {
   margin-left: 252px;
 }
 
+.fondpizza {
+  background-image: url("../git_bootstrap_les_chefs/images/testimonials_background.jpg");
+  height: 440px;
+}
+
+.Testimonals {
+  font-family: "Courgette";
+}
+
+.fille {
+  border: solid 4px #ffffff;
+  width: 150px;
+}
+
+.cadre {
+  border-radius: 30px;
+  margin-right: 45px;
+}
+
+.phrase {
+  font-size: 13px;
+}
+
+.fille2 {
+  margin-right: 104px;
+}
+
+.imgf {
+  margin-left: 122px;
+}
+
+.ecranimg {
+  background-image: url("../git_bootstrap_les_chefs/images/main_bg.jpg");
+  height: 620px;
+}
+
+.bckrouge {
+  border-radius: 20px;
+  background-color: #b50e0e;
+}
+
+.map {
+  font-size: 40px;
+}
+
+.pp {
+  font-size: 15px;
+}
+
+.carre {
+  padding-left: 230px;
+  padding-right: 224px;
+}
+
+.ligne {
+  background-color: #ffffff;
+}
+
 /*# sourceMappingURL=style.css.map */
